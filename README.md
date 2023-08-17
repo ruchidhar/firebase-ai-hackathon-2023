@@ -20,5 +20,5 @@
 - npm run build
 public directory as `dist`
 - firebase init hosting     
-- firebase target:apply hosting invertase_ai invertase_ai
+- firebase target:apply hosting invertaseai invertaseai
 - firebase deploy --only hosting

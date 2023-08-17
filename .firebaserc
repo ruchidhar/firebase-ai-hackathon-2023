@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "fir-signin-4477d"
+  },
+  "targets": {
+    "fir-signin-4477d": {
+      "hosting": {
+        "invertaseai": [
+          "invertaseai"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

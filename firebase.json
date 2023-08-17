@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "invertase_ai",
+    "target": "invertaseai",
     "public": "dist",
     "ignore": [
       "firebase.json",
@@ -12,6 +12,9 @@
         "source": "**",
         "destination": "/index.html"
       }
+    ],
+    "predeploy": [
+      "npm run build"
     ]
   }
 }
