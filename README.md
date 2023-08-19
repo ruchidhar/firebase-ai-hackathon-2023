@@ -20,7 +20,7 @@ Under the hood, this is being powered by Firebase AI Extension - Extract Image T
 
 | Summarize Screen                                                          | Extract Screen                                                          | Summarizer                                                          |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src="./screenshots/ss-splash.png" height="550" alt="Screenshot"/> | <img src="./screenshots/ss-login.png" height="550" alt="Screenshot"/> | <img src="./screenshots/ss-home.png" height="550" alt="Screenshot"/> |
+| <img src="./screenshots/ss-splash.png" alt="Screenshot"/> | <img src="./screenshots/ss-login.png" alt="Screenshot"/> | <img src="./screenshots/ss-home.png" alt="Screenshot"/> |
 
 
 ## Getting Started 🚀
